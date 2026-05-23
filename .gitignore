@@ -1,0 +1,24 @@
+# MTerm (Swift) build artifacts
+.build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+
+# terax-ai reference project (excluded from this repo)
+terax-ai/
+
+# AGENTS.md excluded from this repo
+AGENTS.md
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+*.swp
+*.swo
+
+# Xcode
+xcuserdata/
+*.xcuserstate
