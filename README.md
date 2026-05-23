@@ -2,6 +2,10 @@
 
 Native macOS terminal emulator built with Swift and SwiftUI, inspired by [terax-ai](https://github.com/crynta/terax-ai).
 
+![macOS](https://img.shields.io/badge/macOS-14%2B-purple)
+![Swift](https://img.shields.io/badge/Swift-5.10-blue)
+![MLX](https://img.shields.io/badge/MLX-Apple%20Silicon-orange)
+
 ## Features (planned)
 
 - Multi-tab terminal with SwiftTerm (VT100/xterm emulation)
