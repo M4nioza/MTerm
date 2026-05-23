@@ -19,6 +19,9 @@ Packages/
 *.swp
 *.swo
 
+# Release builds
+Release/
+
 # Xcode
 xcuserdata/
 *.xcuserstate
