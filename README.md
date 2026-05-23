@@ -1,6 +1,6 @@
 # MTerm
 
-Native macOS terminal emulator built with Swift and SwiftUI, inspired by [terax-ai](https://github.com/crynta/terax-ai).
+Native macOS terminal emulator built with Swift and SwiftUI.
 
 ![macOS](https://img.shields.io/badge/macOS-14%2B-purple)
 ![Swift](https://img.shields.io/badge/Swift-5.10-blue)
